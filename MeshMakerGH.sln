@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshMakerGH", "MeshMakerGH\MeshMakerGH.csproj", "{A014967E-ADA5-4033-920C-5F88880BA5F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshMakerRH", "MeshMakerRH\MeshMakerRH.csproj", "{42CF0986-E0B1-4A47-B719-86DE4040A526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshMaker", "MeshMaker\MeshMaker.csproj", "{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshMakerViewer", "MeshMakerViewer\MeshMakerViewer.csproj", "{19606834-CA6B-41D3-B706-15FF70607C78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug32|Any CPU = Debug32|Any CPU
+		Debug64|Any CPU = Debug64|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A014967E-ADA5-4033-920C-5F88880BA5F7}.Debug|Any CPU.ActiveCfg = Debug64|Any CPU
+		{A014967E-ADA5-4033-920C-5F88880BA5F7}.Debug|Any CPU.Build.0 = Debug64|Any CPU
+		{A014967E-ADA5-4033-920C-5F88880BA5F7}.Debug32|Any CPU.ActiveCfg = Debug64|Any CPU
+		{A014967E-ADA5-4033-920C-5F88880BA5F7}.Debug32|Any CPU.Build.0 = Debug64|Any CPU
+		{A014967E-ADA5-4033-920C-5F88880BA5F7}.Debug64|Any CPU.ActiveCfg = Debug64|Any CPU
+		{A014967E-ADA5-4033-920C-5F88880BA5F7}.Debug64|Any CPU.Build.0 = Debug64|Any CPU
+		{A014967E-ADA5-4033-920C-5F88880BA5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A014967E-ADA5-4033-920C-5F88880BA5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CF0986-E0B1-4A47-B719-86DE4040A526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CF0986-E0B1-4A47-B719-86DE4040A526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CF0986-E0B1-4A47-B719-86DE4040A526}.Debug32|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CF0986-E0B1-4A47-B719-86DE4040A526}.Debug32|Any CPU.Build.0 = Debug|Any CPU
+		{42CF0986-E0B1-4A47-B719-86DE4040A526}.Debug64|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CF0986-E0B1-4A47-B719-86DE4040A526}.Debug64|Any CPU.Build.0 = Debug|Any CPU
+		{42CF0986-E0B1-4A47-B719-86DE4040A526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CF0986-E0B1-4A47-B719-86DE4040A526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}.Debug32|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}.Debug32|Any CPU.Build.0 = Debug|Any CPU
+		{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}.Debug64|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}.Debug64|Any CPU.Build.0 = Debug|Any CPU
+		{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B082123-F66D-44C1-8D4E-D4EF5AF6D9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19606834-CA6B-41D3-B706-15FF70607C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19606834-CA6B-41D3-B706-15FF70607C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19606834-CA6B-41D3-B706-15FF70607C78}.Debug32|Any CPU.ActiveCfg = Debug|Any CPU
+		{19606834-CA6B-41D3-B706-15FF70607C78}.Debug32|Any CPU.Build.0 = Debug|Any CPU
+		{19606834-CA6B-41D3-B706-15FF70607C78}.Debug64|Any CPU.ActiveCfg = Debug|Any CPU
+		{19606834-CA6B-41D3-B706-15FF70607C78}.Debug64|Any CPU.Build.0 = Debug|Any CPU
+		{19606834-CA6B-41D3-B706-15FF70607C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19606834-CA6B-41D3-B706-15FF70607C78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
